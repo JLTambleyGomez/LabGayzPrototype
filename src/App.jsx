@@ -122,6 +122,19 @@ const App = () => {
                     </ul>
                 </div>
             </div>
+
+
+            <div className="final-section" data-aos="fade-up">
+                <h1>Resumen y Sugerencias</h1>
+                <p>
+                    Este prototipo muestra una interfaz básica de una aplicación móvil de comercio electrónico dental. Incluye encabezado, barra de búsqueda, categorías, productos destacados, secciones de contacto, y funcionalidades de edición y eliminación. La navegación es clara, con elementos táctiles grandes y visuales atractivos.
+                </p>
+                <p>
+                    Invitamos a todos los interesados a sugerir cambios y mejoras para optimizar la experiencia del usuario y la funcionalidad de la aplicación. Este prototipo no representa la aplicación completa, sino una muestra inicial. El desarrollo de la aplicación será supervisado y revisado cuidadosamente para asegurar la calidad del producto final.
+                </p>
+            </div>
+
+            
         </>
     );
 };

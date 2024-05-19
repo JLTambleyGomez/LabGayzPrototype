@@ -72,6 +72,14 @@ color: white;
   justify-content: space-around;
 }
 
+.final-section{
+  color: rgb(255, 255, 255);
+  line-height: 20px;
+  margin-top: 4%;
+  padding: 2%;
+  background-color: rgba(0, 0, 0, 0.952);
+
+}
 section {
   padding: 2%;
   display: flex;
